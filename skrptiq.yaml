@@ -3,7 +3,7 @@ id: "b1d144f6-aac6-4d59-ab7d-e56bfb505a5c"
 name: "templates-sources"
 display_name: "Source Templates"
 description: "Source templates — API docs, style guides, competitor profiles, and reference material"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=1.0.0"
 
 # --- Attribution ---
@@ -34,9 +34,9 @@ template: true
 contents:
   skills: 0
   prompts: 0
-  workflows: 1
+  workflows: 0
   services: 0
   sources: 8
   documents: 0
   assets: 0
-  total: 9
+  total: 8
