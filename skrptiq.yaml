@@ -1,0 +1,42 @@
+# --- Identity ---
+id: "b1d144f6-aac6-4d59-ab7d-e56bfb505a5c"
+name: "templates-sources"
+display_name: "Source Templates"
+description: "Source templates — API docs, style guides, competitor profiles, and reference material"
+version: "1.0.0"
+engine: ">=1.0.0"
+
+# --- Attribution ---
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+
+licence: "MIT"
+repository: "https://github.com/skrpts/templates-sources"
+
+# --- Discovery (Hub) ---
+category: "templates"
+tags:
+  - "templates"
+  - "source"
+
+# --- Security & Access ---
+requires:
+  services:
+    - "llm-service"
+  permissions: []
+  data_handling: []
+
+# --- Manifest flags ---
+template: true
+
+# --- Contents ---
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 1
+  services: 0
+  sources: 8
+  documents: 0
+  assets: 0
+  total: 9
