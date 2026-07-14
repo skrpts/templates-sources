@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "b1d144f6-aac6-4d59-ab7d-e56bfb505a5c"
+id: "fcb3f491-4183-4eb5-89d9-3ae8a29991f6"
 name: "templates-sources"
 display_name: "Source Templates"
 description: "Source templates — API docs, style guides, competitor profiles, and reference material"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 
 # --- Attribution ---
@@ -40,3 +40,17 @@ contents:
   documents: 0
   assets: 0
   total: 8
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-14T12:12:34.857Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/templates-sources/security"
